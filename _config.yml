@@ -14,17 +14,17 @@
 # on GitHub Pages it is your github repository's name prefixed with a /
 #baseurl: /text-analysis
 # location of code, the full url to your github repository
-source-code: https://github.com/learn-static/text-analysis
+source-code: https://github.com/rebeccamills1/The-Impact-of-Treaties-in-the-Pacific-Northwest
 
 ##########
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Writing with Visualizations
+title: The Impact of Treaties on 19th Century U.S.-Indian Relations
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Create a multimedia essay webpage and visualize historical text as data
+tagline: Evaluating the Effects of Treaties on U.S.-Indian Relations in the Pacific Northwest
 # creator of the digital project, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: owikle
+author: Rebecca Mills
 
 # collection
 collections:
