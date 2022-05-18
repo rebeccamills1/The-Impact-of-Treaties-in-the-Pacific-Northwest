@@ -1,0 +1,5 @@
+name,filename-topics,filename-documents,topics,iterations
+party-platforms-20th-century-all,party-platforms-20th-century-all-topics,party-platforms-20th-century-all-documents,10,1050
+party-platforms-20th-century-democratic,party-platforms-20th-century-democratic-topics,party-platforms-20th-century-democratic-documents,10,1050
+party-platforms-20th-century-republican,party-platforms-20th-century-republican-topics,party-platforms-20th-century-republican-documents,10,1050
+sotu-20th-century,sotu-20th-century-topics,sotu-20th-century-documents,10,1150
